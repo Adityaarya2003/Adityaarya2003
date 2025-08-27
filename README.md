@@ -1,5 +1,5 @@
 My name is Aditya Arya.
-I am a second year undergraduate student of the department of Electrical Engineering enrolled in its Bachelor of Technology Instrumentation Engineering course.
+I am a fourth year undergraduate student of the department of Electrical Engineering enrolled in its Bachelor of Technology Instrumentation Engineering course.
 I am currently persuing my degree form Indian Institute of Technology Kharagpur.
 I am from Jamshedpur , Jharkhand.
 My interests include Data Structure & Algorithms, Machine learning, Generative AI and LLMOps.
